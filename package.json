@@ -1,0 +1,15 @@
+{
+  "name": "@marcosbv/redirect-to-cos",
+  "version": "1.0.0",
+  "description": "Redirects commands or writable streams to IBM Cloud Object Storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Vieira (marcosbv@br.ibm.com)",
+  "license": "ISC",
+  "dependencies": {
+    "extend": "^3.0.2",
+    "ibm-cos-sdk": "^1.6.1"
+  }
+}
